@@ -17,14 +17,11 @@ To write a program to find the solution of a matrix using Gaussian Elimination.
 ```
 /*
 Program to find the solution of a matrix using Gaussian Elimination.
-Developed by: 
-RegisterNumber: 
+Developed by:DHARANYA.N
+RegisterNumber:23006980 
 */
 ```
-'''Program to solve a matrix using Gaussian elimination without partial pivoting.
-Developed by:DHARANYA.N
-RegisterNumber: 23006980
-'''
+
 ```
 import sys
 import numpy as np
