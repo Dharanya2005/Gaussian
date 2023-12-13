@@ -25,6 +25,7 @@ RegisterNumber:
 Developed by:DHARANYA.N
 RegisterNumber: 23006980
 '''
+```
 import sys
 import numpy as np
 n=int(input())
@@ -48,7 +49,7 @@ for i in range(n-2,-1,-1):
     x[i]=x[i]/matrix[i][i]
 for i in range(n):
     print("X%d = %0.2f" %(i,x[i]),end=" ")
-
+```
 ## Output:
 ![gaussian elimination](![Alt text](<Screenshot 2023-12-13 091459.png>))
 
